@@ -1,0 +1,50 @@
+PROFORMA INVOICE
+Seller
+Kochi Spices & Oils Pvt. Ltd
+12 Harbor Road 
+Willingdon Island, 
+Kochi, Ernakulam, 682009 
+India
++91 7736427930
+ 
+GST: IST-GST-34452	Pages
+1 of 1
+	Invoice Number
+INV-PF-KSW-DB-00002	Issue Date
+05 Aug 2025
+		Due Date
+05 Nov 2025
+Buyer
+Desert Bloom Trading FZE
+Warehouse 18 
+Jebel Ali Free Zone 
+Dubai,  
+United Arab Emirates
++971-58-1122334
+ 
+TRN : 100892345120789	Delivery Date
+October 2025
+Method of Dispatch
+Sea Maritime	Type of Shipment
+FCL	Terms / Method of Payment
+Payment by irrevocable Letter of Credit at sight
+Port of Loading
+Kochi	Port of Discharge
+Jebel Ali Free Zone	
+Product Code	Description of Goods	Unit Quantity	Unit Type	Price	Amount
+KSW/CO/001 – 	Ground Coriander — food grade — packed in 001-040	25 kg bags (India origin)		100 Bags	50.00	5,000.00
+KSW/CO/DR-01 – 	Virgin Coconut Oil — refined, edible grade 
+DR-10	(India origin)		30 Drums	200.00	6,000.00
+Total This Page		130	11,000.00
+Consignment Total		130	11,000.00
+Additional Info	GST (20%)	2,200.00
+	TOTAL:	$13,200.00
+		Currency
+USD
+	Signatory Company
+Kochi Spices & Oils Pvt. Ltd
+	Name of Authorized Signatory
+Ramakrishnan	Menon
+Bank Details	
+	Signature Ramakrishnan Menon
+
